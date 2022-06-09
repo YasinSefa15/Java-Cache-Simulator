@@ -3,11 +3,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-//Yasin Sefa KIRMAN 150119034
-//Murat Özcan 150119008
-//Berkkan Rençber 150119011
-//Batuhan Baştürk 150119035
-
 //to compile in src folder run the command : javac Simulator.java
 //to execute in src folder run the command : java Simulator -L1s 0 -L1E 2 -L1b 3 -L2s 1 -L2E 2 -L2b 3 -t test_medium.trace
 
